@@ -20,7 +20,9 @@
 
 # Jenkins
 
-# KUBERNETES
+# Kubernetes
+
+* [Instalação do Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
 # Prometheus
 

@@ -66,6 +66,8 @@
 ### docker exec -it ubuntinho ifconfig eth0
 ### docker exec -it nginx_teste ls -lh
 
+## Acesso ao bash
+### docker exec -it nginx_teste bash
 
 
 

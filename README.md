@@ -34,6 +34,9 @@
 
 # Splunk
 
+* [Overview sobre Splunk no Cloud](http://docs.splunk.com/Documentation/SplunkCloud/7.0.2/User/DataSplunkCloudcanindex)
+* [Deploy de clients](http://docs.splunk.com/Documentation/Splunk/7.2.0/Updating/Configuredeploymentclients)
+
 # Terraform
 
 # Zabbix

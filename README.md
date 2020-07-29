@@ -6,6 +6,8 @@
 
 ### Ansible
 
+* [Configuração do Ansible em AWS EC2](https://medium.com/@khandelwal12nidhi/ansible-setup-on-aws-ec2-instance-d83fac41fcc8)
+
 ### AWS
 
 * [AWS Global Cloud Infrastructure Map](https://infrastructure.aws/)
@@ -22,6 +24,8 @@
 * [Instalação do Gitlab runner](https://docs.gitlab.com/runner/install/linux-manually.html)
 
 ### Jenkins
+
+* [Instalação do Jenkins no Windows](https://dzone.com/articles/how-to-install-jenkins-on-windows)
 
 ### Kubernetes
 

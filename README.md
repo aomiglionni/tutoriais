@@ -24,7 +24,13 @@
 
 * [Instalação do Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
+# Openshift
+
+* [Aprender sobre Openshift](https://learn.openshift.com/introduction)
+
 # Prometheus
+
+* [Instalação do Prometheus em Ubuntu](https://linoxide.com/linux-how-to/install-prometheus-ubuntu/)
 
 # Splunk
 

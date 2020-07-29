@@ -6,37 +6,37 @@
 
 ### Ansible
 
-# AWS
+### AWS
 
 * [AWS Global Cloud Infrastructure Map](https://infrastructure.aws/)
 
-# AZURE
+### AZURE
 
-# DOCKER
+### DOCKER
 
 * [Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
 
-# Gitlab CI
+### Gitlab CI
 
-# Jenkins
+### Jenkins
 
-# Kubernetes
+### Kubernetes
 
 * [Instalação do Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
-# Openshift
+### Openshift
 
 * [Aprender sobre Openshift](https://learn.openshift.com/introduction)
 
-# Prometheus
+### Prometheus
 
 * [Instalação do Prometheus em Ubuntu](https://linoxide.com/linux-how-to/install-prometheus-ubuntu/)
 
-# Splunk
+### Splunk
 
 * [Overview sobre Splunk no Cloud](http://docs.splunk.com/Documentation/SplunkCloud/7.0.2/User/DataSplunkCloudcanindex)
 * [Deploy de clients](http://docs.splunk.com/Documentation/Splunk/7.2.0/Updating/Configuredeploymentclients)
 
-# Terraform
+### Terraform
 
-# Zabbix
+### Zabbix

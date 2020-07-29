@@ -14,9 +14,12 @@
 
 ### Docker
 
-* [Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
+* [Comandos Docker](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-docker/)
+* [Instalação do Docker no Ubuntu](https://www.hostinger.com.br/tutoriais/install-docker-ubuntu)
 
 ### Gitlab CI
+
+* [Instalação do Gitlab runner](https://docs.gitlab.com/runner/install/linux-manually.html)
 
 ### Jenkins
 
@@ -38,5 +41,8 @@
 * [Deploy de clients](http://docs.splunk.com/Documentation/Splunk/7.2.0/Updating/Configuredeploymentclients)
 
 ### Terraform
+
+* [Introdução ao Terraform](https://medium.com/@igordcsouza/terraform-uma-pequena-introdu%C3%A7%C3%A3o-eae86f22db55)
+* [AWS Provider](https://www.terraform.io/docs/providers/aws/d/instances.html)
 
 ### Zabbix

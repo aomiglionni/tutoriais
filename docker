@@ -1,0 +1,3 @@
+Utilize o comando search para procurar a imagem e o comando pull para baixar:
+
+docker search ubuntu

@@ -26,6 +26,7 @@
 
 ## Verificar todos os containers
 ### docker ps -a
+### docker ps -qa
 
 ## Remover um container
 ### docker rm id_ou_apelido
@@ -50,6 +51,21 @@
 
 ## Parar um container
 ### docker stop id_ou_apelido
+
+## Iniciar um container
+### docker start id_ou_apelido
+
+## Remover todos os containers
+### docker rm $(docker ps -qa)
+
+## Remover todas as imagens
+### docker rmi $(docker images -q)
+
+## Executar comandos sem precisar estar dentro do container
+### docker exec -it id_ou_apelido comando
+### docker exec -it ubuntinho ifconfig eth0
+### docker exec -it nginx_teste ls -lh
+
 
 
 

@@ -31,6 +31,7 @@
 
 * [Instalação do Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * [Use um service para acessar uma aplicação no cluster](https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/)
+* [Ambiente interativo para estudos e treinamentos de K8s](https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster)
 
 ### Openshift
 
